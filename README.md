@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abishek-Subramaniam
-- 👀 I’m interested in Data 
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science and Machiene Learning
 - 💞️ I’m looking to work as Data Analyst
 - 📫 Reach me @ abishek2win@gmail.com
