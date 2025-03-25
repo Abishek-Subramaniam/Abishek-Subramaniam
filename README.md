@@ -16,7 +16,7 @@ Languages & Tools: SQL, Python, Tableau, Excel
 
 Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
 
-Machine Learning: Classification, Regression, Clustering
+Machine Learning: Scikit Learn, Classification, Regression, Clustering , Timeseries Forecasting, Recommendation Systems
 
 Other Skills: Data Governance, Google Cloud Platform (GCP), Collibra
 
